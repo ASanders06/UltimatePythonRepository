@@ -1,0 +1,5 @@
+name = input("Type in your name" + " ")
+nickname = input("Type in your nickname" + " ")
+print ("Hello," + " " + name)
+print (name + " " "is quite a nice name.")
+
