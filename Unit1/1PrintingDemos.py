@@ -17,4 +17,10 @@
 # print("Hours in a year:")
 # print(365*24) # 365 days, 24 hours in each day
 
+
 print('Polonius advises, "To thine own self be true."')
+print ("hi " + str(2+5))
+# making it a string seperates it and prevents the system from trying to write it out (I.e. hi 2+5 instead of hi 7)
+# commas work too
+print ("bye", 2+5)
+print (f"so" {2+5})

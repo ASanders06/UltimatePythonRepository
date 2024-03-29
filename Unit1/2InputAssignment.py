@@ -24,7 +24,7 @@ part3 = input("The 3rd part: ")
 print(part + "-" + part2 + "-" + part3 + "!")
 
 print("########## 1.2.5 ##########")
-
+# (^o o^)S
 storyname = input("Please type in a name: ")
 storyear = input("Please enter a year: ")
 print(storyname + " is a valiant knight...born in the year " + storyear + ". One morning " + storyname + " woke up to an awful racket: a dragon was approaching the village. Only " + storyname + " could save the village's residents.")
