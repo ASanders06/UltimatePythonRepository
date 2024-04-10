@@ -1,4 +1,4 @@
-# print("########## 2.1.1 ##########")
+# print("########## 2.2.1 ##########")
 
 word = str(input("Please type in a word: "))
 length = int(len(word))
