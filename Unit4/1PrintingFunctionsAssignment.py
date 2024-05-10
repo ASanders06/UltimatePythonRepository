@@ -66,4 +66,4 @@ def spruce(numb):
     begi = int(numb)
     end = int(numb)
     print((" " * begi) + ("*") + (" " * end))
-spruce(5)
+spruce(9)
